@@ -5,9 +5,13 @@ This is a social media website/app built with React, HTML, and CSS. The app util
 
 *Features*
 1)View posts from other users
+
 2)Create and share your own posts
+
 3)Like and comment on posts
+
 4)Toggle between light and dark mode
+
 5)Responsive design for mobile and desktop
 
 
