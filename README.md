@@ -77,8 +77,11 @@ Profile Page:
 *Acknowledgements:*
 
 1)React Team for creating a powerful library
+
 2)Icons from FontAwesome
-Dark Mode inspiration from React Dark Mode
+
+3)Dark Mode inspiration from React Dark Mode
+
 
 
 
