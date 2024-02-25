@@ -1,3 +1,29 @@
+*Social Media Website/App*
+
+
+This is a social media website/app built with React, HTML, and CSS. The app utilizes React Hooks and Context API for state management, includes Dark Mode, and is designed with a focus on responsiveness.
+
+*Features*
+1)View posts from other users
+2)Create and share your own posts
+3)Like and comment on posts
+4)Toggle between light and dark mode
+5)Responsive design for mobile and desktop
+
+
+*Technologies Used*
+
+1)React
+2)HTML5
+3)CSS3
+4)React Hooks
+5)Context API
+6)Dark Mode Toggle
+7)Responsive Design
+
+
+
+
 *Getting Started*
 To run this app locally, follow these steps:
 
