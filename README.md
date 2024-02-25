@@ -4,5 +4,20 @@ My login page:
 My Register page:
 ![Screenshot (510)](https://github.com/Sneha2ramesh/SocialMedia/assets/127677591/cfecdf1f-8d52-44c1-b539-e36a698634e4)
 
+My home page
+
+( Dark Mode):
+![Screenshot (511)](https://github.com/Sneha2ramesh/SocialMedia/assets/127677591/e897cfe7-60e7-4fc5-b085-2d477eec1077)
+
+(Light Mode):
+![Screenshot (511)](https://github.com/Sneha2ramesh/SocialMedia/assets/127677591/458b0c81-e511-4c98-b5b9-4168b4633fc7)
+
+Profile Page:
+![Screenshot (513)](https://github.com/Sneha2ramesh/SocialMedia/assets/127677591/c0df700d-19e2-4f95-ab4d-8ca19ff132a6)
+
+
+
+
+
 
 
